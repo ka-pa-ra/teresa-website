@@ -28,9 +28,8 @@ a.current{
 
 /*--------------------index.html*/
  .heading{
-     background: url(../images/kitchen3.jpg) no-repeat center center ;
-     background-size: cover;
-     width: 940px;
+     background: url(../images/taranto2.jpg) no-repeat center center ;
+     width: 540px;
      height: 540px;
  }
 
@@ -193,7 +192,7 @@ button[type="submit"]  {
  }
  /*-------menu*/
 .bg-menu1{
-     background: url(../images/table-set.jpg) no-repeat center center ;
+     background: url(../images/gastronomia.png) no-repeat center center ;
      background-size: cover;
      width: 720px;
      height: 540px;
