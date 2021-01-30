@@ -25,6 +25,22 @@ a:hover{
 a.current{
     text-decoration-line:underline; 
 }
+a.gallery {
+     font-family: 'Gotu', sans-serif;
+     color: black;
+    font-weight: 700;
+    font-size: 20px;
+    margin-right: 30px;
+    padding: 5px;
+}
+.card-text{
+     font-family: 'Gotu', sans-serif;
+     color: black;
+    font-weight: 700;
+    font-size: 20px;
+    margin-right: 30px;
+    padding: 5px;
+}
 
 /*--------------------index.html*/
  .heading{
@@ -198,8 +214,8 @@ button[type="submit"]  {
      height: 540px;
  }
  .bg-menu2{
-     background: url(../images/canape.jpg) no-repeat center center ;
-     background-size: cover;
+     background: url(../images/cultura.jpg) no-repeat center center ;
+     background-size: contain ;
      width: 720px;
      height: 540px;
  }
